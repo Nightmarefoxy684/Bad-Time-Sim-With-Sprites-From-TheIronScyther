@@ -1,22 +1,4 @@
-# ATTENTION
-**If you plan on using the Bendy Head sprites, remember to credit me.**
-________________________________________________________________________________
-
-# CREDITS
-## Song Used: Build our Machine
-
-**By: [DAGames](https://www.youtube.com/channel/UCK7OXr0m5mnM1z9p7n_Bwfw)**
-
-**LittleBigPlanet Megalo Remix: [FRANDERMAN123](https://www.youtube.com/channel/UCpYd59dYPZhsjTY1IOpcm1w)**
-
-**Megalo Remix Cover: [Olimac31](https://www.youtube.com/channel/UC535_jxw6NxMXXzIKD54G5Q)**
-
-## FIGHT
-
-**Original By: [Jcw87](https://github.com/jcw87)**
-
-**Bendy Head Sprites By: [kayos156](https://github.com/kayos156)**
-
-**Engine Used (Jcw87): [Construct 2](https://www.scirra.com/construct2)**
-
-**Engine Used (kayos156): [None](http://www.blankwindows.com/)**
+# bad-time-sim-but-with-sans-sprites-from-TheIronScyther-W.I.P
+This is a W.I.P bad time sim mod that replaces the sprites for sans with sans sprites redesigned by TheIronScyther.
+Huge thanks to TheIronScyther on deviant art for the sprites for sans, go check him out!
+Huge thanks to kayos156 for the bendy fight! I couldn't find out how to upload folders so I just forked his bendy fight and replaced all the files with the normal bad time simulator files plus two head changes in the sprite sheet so thank him for that!
